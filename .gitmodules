@@ -1,0 +1,3 @@
+[submodule "submodule_sub"]
+	path = submodule_sub
+	url = https://github.com/sungjin-shin/submodule_sub.git
