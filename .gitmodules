@@ -1,3 +1,6 @@
 [submodule "submodule_sub"]
 	path = submodule_sub
 	url = https://github.com/sungjin-shin/submodule_sub.git
+[submodule "NOmad-Python-Course"]
+	path = NOmad-Python-Course
+	url = https://github.com/sungjin-shin/NOmad-Python-Course.git
